@@ -282,7 +282,7 @@
     "action": "urlPush",
     "opt": {
       "url": "",
-      "vodName": "非必填，不填就展示url"
+      "name": "非必填，不填就展示url"
     }
 }
 ```
