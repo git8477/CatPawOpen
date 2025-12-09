@@ -177,6 +177,7 @@
     }
 }
 ```
+播放地址支持`push://`协议，例如返回`push://http://test.com/video.mp4`，那么会使用链接推送功能跳到播放页并推送`http://test.com/video.mp4`
 
 
 ### /search
