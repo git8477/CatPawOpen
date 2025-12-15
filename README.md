@@ -46,7 +46,8 @@
     "class": [
         {
             "type_id": "hot_gaia",
-            "type_name": "热门内容"
+            "type_name": "热门内容",
+            "type_flag": "1"
         },
         {
             "type_id": "tv_hot",
@@ -78,7 +79,9 @@
     }
 }
 ```
-
+| 字段说明 | 用途 |
+|-------|:-----:|
+| type_flag | 通常不传，为“1”代表是目录模式，可用于实现“我的网盘”、“AList”等功能 |
 
 ### /category
 > 获取分类数据，也可以在这个接口返回当前分类的filter
