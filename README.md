@@ -144,7 +144,11 @@
             "vod_director": "导演",
             "vod_content": "介绍",
             "vod_play_from": "夸克-22cfee7efbbb$$$夸克-77ede2577454",
-            "vod_play_url": "第一集$id11#第二集$id12$$$第一集$id21#第二集$id22"
+            "vod_play_url": "第一集$id11#第二集$id12$$$第一集$id21#第二集$id22",
+            "vod_links": [{
+                "name": "百度",
+                "url": "https://www.baidu.com"
+            }]
         }
     ]
 }
